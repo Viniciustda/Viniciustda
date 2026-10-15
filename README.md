@@ -19,7 +19,7 @@
 ### 🧑‍💻 About me
 
 - 🎓 Computer Science student at the **Federal University of Minas Gerais (UFMG)**.
-- 🔬 Undergraduate researcher (CNPq scholar) at the **Wireless Networks Lab (WiNet)** and the **CCSC Research Lab**, UFMG.
+- 🔬 Undergraduate researcher at the **Wireless Networks Lab (WiNet)** and the **CCSC Research Lab**, UFMG.
 - 🛡️ I research the **security of UAV networks (FANETs)**: man-in-the-middle attacks, lightweight cryptography and multi-agent reinforcement learning.
 - 🎮 I also enjoy **game development** and **robotics**.
 - 🪖 Former Brazilian Army officer (Second Lieutenant), where I led teams and administrative sections.
